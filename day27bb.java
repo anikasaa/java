@@ -1,6 +1,6 @@
 package two;
 
-public class day27b {
+public class day27bb {
 
 	public static void main(String[] args) {
 		Car Toyota = new Car("Toyota", "sedane");
