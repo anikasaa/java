@@ -28,7 +28,7 @@ public class day26D {
 	}
 
 }
-
+        
 class Six {
 	public void SixA() {
 		System.out.println("this is first method for class six");
@@ -38,7 +38,7 @@ class Six {
 		System.out.println("this is second method for class six");
 	}
 }
-
+ 
 class Seven extends Six implements Three, Four {
 
 	public void methodFour() {
