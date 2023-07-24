@@ -1,5 +1,6 @@
 package two;
 
+
 interface WorldBankK {
 	public void Save(int x);
 
