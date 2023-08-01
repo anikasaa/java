@@ -33,7 +33,7 @@ public class day31 {
 			students.get(i).display();
 		}
 
-		// while loop
+		// while loop                      
 
 		int t1 = 0;
 		while (t1 < students.size()) {
@@ -54,7 +54,7 @@ public class day31 {
 		}
 
 	}
-
+             
 }
 
 class PersonX {
